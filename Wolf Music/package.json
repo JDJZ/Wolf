@@ -1,0 +1,16 @@
+{
+  "name": "wolf-music",
+  "version": "1.0.0",
+  "description": "A discord music bot called wolf",
+  "main": "bot.js",
+  "scripts": {
+    "test": "wolf_music"
+  },
+  "author": "JDJZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "opusscript": "0.0.3",
+    "ytdl-core": "^0.16.2"
+  }
+}

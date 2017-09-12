@@ -1,0 +1,15 @@
+{
+  "name": "wolf",
+  "version": "1.0.0",
+  "description": "A Discord bot called Wolf",
+  "main": "bot.js",
+  "scripts": {
+    "test": "wolf"
+  },
+  "author": "JDJZ",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "opusscript": "0.0.3"
+  }
+}
